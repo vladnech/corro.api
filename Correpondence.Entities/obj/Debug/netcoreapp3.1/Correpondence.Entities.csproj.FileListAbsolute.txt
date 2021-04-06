@@ -1,0 +1,8 @@
+C:\Users\vladn\source\repos\Correspondence.Api\Correpondence.Entities\bin\Debug\netcoreapp3.1\Correpondence.Entities.deps.json
+C:\Users\vladn\source\repos\Correspondence.Api\Correpondence.Entities\bin\Debug\netcoreapp3.1\Correpondence.Entities.dll
+C:\Users\vladn\source\repos\Correspondence.Api\Correpondence.Entities\bin\Debug\netcoreapp3.1\Correpondence.Entities.pdb
+C:\Users\vladn\source\repos\Correspondence.Api\Correpondence.Entities\obj\Debug\netcoreapp3.1\Correpondence.Entities.AssemblyInfoInputs.cache
+C:\Users\vladn\source\repos\Correspondence.Api\Correpondence.Entities\obj\Debug\netcoreapp3.1\Correpondence.Entities.AssemblyInfo.cs
+C:\Users\vladn\source\repos\Correspondence.Api\Correpondence.Entities\obj\Debug\netcoreapp3.1\Correpondence.Entities.csproj.CoreCompileInputs.cache
+C:\Users\vladn\source\repos\Correspondence.Api\Correpondence.Entities\obj\Debug\netcoreapp3.1\Correpondence.Entities.dll
+C:\Users\vladn\source\repos\Correspondence.Api\Correpondence.Entities\obj\Debug\netcoreapp3.1\Correpondence.Entities.pdb
